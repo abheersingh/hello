@@ -5,3 +5,4 @@ def saying_hello():
 
         print('Collaborator says kumusta')
 #this is a comment on how git resolved conficts-skyler:
+saying_hello()
